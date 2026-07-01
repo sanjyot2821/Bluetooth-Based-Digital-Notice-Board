@@ -45,6 +45,11 @@ The Bluetooth-Based Digital Notice Board is an embedded system project developed
 The system continuously waits for incoming messages from a smartphone via the HC-05 Bluetooth module. When a message is received, the LPC2129 microcontroller processes the data through UART communication and stores it in the AT24C256 EEPROM using the I²C protocol. The message is then displayed as scrolling text across the LED dot matrix display. In case of a power interruption, the stored message is retrieved from EEPROM and displayed again when the system restarts.
 
 ---
+## Demo Video
+
+
+https://github.com/user-attachments/assets/bef03cd3-acad-4f60-b6dc-2b411bbe4e63
+
 
 ## Author
 
