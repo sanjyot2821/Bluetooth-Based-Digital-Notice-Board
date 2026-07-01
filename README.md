@@ -48,7 +48,10 @@ The system continuously waits for incoming messages from a smartphone via the HC
 ## Demo Video
 
 
-https://github.com/user-attachments/assets/bef03cd3-acad-4f60-b6dc-2b411bbe4e63
+
+https://github.com/user-attachments/assets/395b0632-b9c5-42ec-a5a1-d57a7d7bcf2d
+
+
 
 
 ## Author
